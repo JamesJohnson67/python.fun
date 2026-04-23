@@ -1,0 +1,7 @@
+import time, os
+print("     
+         o
+        / \
+        / \
+
+")
